@@ -1,0 +1,14 @@
+[
+	{
+		"patternName": "Pipeline / Serial execution",
+		"path": "pipeline"
+	},
+	{
+		"patternName": "Parallel fork-join",
+		"path": "parallel-all"
+	},
+	{
+		"patternName": "Parallel take first",
+		"path": "parallel-first"
+	}
+]
