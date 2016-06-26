@@ -1,18 +1,22 @@
 [
 	{
 		"name" : "Javascript / ES6-async-await",
+	    "wordPressLangName" : "javascript",
 		"filename": "es6-async-await.js"
 	},
 	{
 		"name" : "Javascript / ES6-Promise",
+	    "wordPressLangName" : "javascript",
 		"filename": "es6-promise.js"
 	},
 	{
 		"name" : "Java / RxJava",
+	    "wordPressLangName" : "java",
 		"filename": "rx.java"
 	},
 	{
 		"name" : "C#",
+	    "wordPressLangName" : "csharp",
 		"filename": "csharp.cs"
 	}
 ]
