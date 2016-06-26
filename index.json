@@ -1,4 +1,8 @@
 [
+    {
+        "patternName": "Support functions",
+        "path": "support"
+    },
 	{
 		"patternName": "Pipeline / Serial execution",
 		"path": "pipeline"
