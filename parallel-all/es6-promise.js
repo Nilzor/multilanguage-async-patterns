@@ -1,9 +1,9 @@
+// Assuming promise1, 2 and 3 are created
+// before this code executing
 Promise.all([
-    createPromise('job1'),
-    createPromise('job2'),
-    createPromise('job2')
+    promise1,
+    promise2,
+    promise3
 ]).then((results) => {
-    console.log('Parallell promise', results);
-}).catch((err) => {
-    console.log(err);
-});
+    // 'results' is array of results from each promise
+})
