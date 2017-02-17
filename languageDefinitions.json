@@ -18,5 +18,10 @@
 		"name" : "C#",
 	    "wordPressLangName" : "csharp",
 		"filename": "csharp.cs"
+	},
+	{
+        "name" : "Kotlin / Coroutines",
+	    "wordPressLangName" : "kotlin",
+	    "filename": "kotlin-co.kt"
 	}
 ]
