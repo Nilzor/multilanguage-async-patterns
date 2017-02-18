@@ -1,6 +1,6 @@
 # Comparison of different asynchronous patterns in different languages
 
-Blog post about this: https://tech.vg.no/2016/06/26/async-programming-patterns-in-different-languages/
+Blog post about this: http://www.nilzorblog.com/2016/08/async-programming-patterns-in-different_82.html
 
 The files `index.json` defines the pattersn while `languageDefinitions.json` define the file name
  convention and names for the different programming langauges. 
